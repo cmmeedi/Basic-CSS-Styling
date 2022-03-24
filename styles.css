@@ -1,0 +1,17 @@
+h2{
+    /* This property will change the color of the text */
+    color: teal;
+    background-color: plum;
+}
+
+button{
+    color: magenta;
+    /* background-color is specifically used to change the background color of an element.  Use this if you only want to change the background color and nothing else */
+    background-color: rebeccapurple;
+}
+
+p{
+    color: olivedrab;
+    /* background has more uses and different things can be applied to it */
+    background: orange;
+}
